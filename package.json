@@ -1,6 +1,6 @@
 {
   "name": "8ball-pl",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -8,10 +8,6 @@
   "author": "Andrzej",
   "license": "ISC",
   "dependencies": {},
-  "description": "aha",
-  "keywords": [
-    "aha"
-  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jedrek0429/8ball-pl.git"
@@ -19,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/jedrek0429/8ball-pl/issues"
   },
-  "homepage": "https://github.com/jedrek0429/8ball-pl#readme"
+  "homepage": "https://github.com/jedrek0429/8ball-pl#readme",
+  "description": "8ball to mały wróżbita. 8ball is a little fortune teller."
 }
