@@ -1,3 +1,15 @@
+<div align="center">
+  <br />
+  <br />
+  <p>
+    <a href="https://www.npmjs.com/package/8ball-pl"><img src="https://img.shields.io/npm/v/8ball-pl" alt="NPM version" /></a>
+    <a href="https://www.npmjs.com/package/8ball-pl"><img src="https://img.shields.io/npm/dt/8ball-pl.svg?maxAge=3600" alt="NPM downloads" /></a>
+  </p>
+  <p>
+    <a href="https://nodei.co/npm/8ball-pl/"><img src="https://nodei.co/npm/8ball-pl.png?downloads=true&stars=true" alt="npm installnfo" /></a>
+  </p>
+</div>
+
 # 8ball
 8ball to mały wróżbita. W tej paczce możesz używać go do losowania odpowiedzi własnch lub wbudowanych. Oto przykładowy kod:
 
