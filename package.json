@@ -11,5 +11,13 @@
   "description": "aha",
   "keywords": [
     "aha"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jedrek0429/8ball-pl.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jedrek0429/8ball-pl/issues"
+  },
+  "homepage": "https://github.com/jedrek0429/8ball-pl#readme"
 }
